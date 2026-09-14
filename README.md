@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Shri Ram
 
-<!--
-**Shri-ram-N/Shri-ram-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | Frontend & Python
 
-Here are some ideas to get you started:
+I'm an aspiring software developer interested in building useful
+applications and improving my problem-solving skills through
+hands-on development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+- 💻 Interested in Frontend Development
+- 🐍 Learning Python
+- 🌐 Exploring Web Development
+- 🔧 Learning Git & GitHub
+- 📚 Improving my programming and problem-solving skills
+- 🚀 Learning by building and experimenting
+
+---
+
+## 🛠️ Technologies
+
+**Languages & Web**
+
+HTML • CSS • JavaScript • Python
+
+**Tools**
+
+Git • GitHub
+
+---
+
+## 📚 Currently Learning
+
+- JavaScript
+- Python
+- Git & GitHub
+- Software Development
+
+---
+
+## 🎯 Goal
+
+To become a well-rounded software developer by continuously
+learning, building, and improving my skills.
+
+---
+
+⭐ Thanks for visiting my profile!
