@@ -1,50 +1,50 @@
+<div align="center">
+
+<img src="./gitprofile.png" alt="Shri Ram N - Aspiring Software Developer">
+
+</div>
+
 # 👋 Hi, I'm Shri Ram
 
 ### Aspiring Software Developer | Frontend & Python
 
-I'm an aspiring software developer interested in building useful
-applications and improving my problem-solving skills through
-hands-on development.
+I'm an aspiring software developer focused on building practical applications
+and strengthening my programming and problem-solving skills through hands-on development.
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 💻 Interested in Frontend Development
-- 🐍 Learning Python
-- 🌐 Exploring Web Development
-- 🔧 Learning Git & GitHub
-- 📚 Improving my programming and problem-solving skills
-- 🚀 Learning by building and experimenting
+- Interested in Frontend Development and Web Technologies
+- Learning and building with Python
+- Developing responsive and user-focused web interfaces
+- Using Git and GitHub for version control
+- Continuously improving my programming and problem-solving skills
+- Learning through projects, experimentation, and consistent practice
 
 ---
 
-## 🛠️ Technologies
+## Technical Skills
 
-**Languages & Web**
-
+**Languages & Web**  
 HTML • CSS • JavaScript • Python
 
-**Tools**
-
+**Tools**  
 Git • GitHub
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
-- JavaScript
-- Python
-- Git & GitHub
-- Software Development
+JavaScript • Python • Software Development Practices
 
 ---
 
-## 🎯 Goal
+## Career Goal
 
-To become a well-rounded software developer by continuously
-learning, building, and improving my skills.
+To grow into a well-rounded software developer by continuously learning,
+building meaningful projects, and solving real-world problems.
 
 ---
 
-⭐ Thanks for visiting my profile!
+*Always learning. Always building. Always improving.*
